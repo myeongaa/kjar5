@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/menu_login"
+    android:orderInCategory="1"
+    android:showAsAction="always"
+    android:title="로그인"/>
+    <item
+        android:id="@+id/menu_logout"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:title="로그아웃"/>
+    <item
+        android:id="@+id/menu_mypage"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:title="마이페이지"/>
+</menu>
